@@ -1,0 +1,19 @@
+streamlit
+langchain
+langchain-community
+faiss-cpu
+transformers
+torch
+Pillow
+matplotlib
+seaborn
+
+
+# pip install -r requirements.txt
+# streamlit run app.py
+
+
+# 🧠 Add Articles
+# Place .txt files about seasonal fashion in:
+# 
+# assets/sample_articles/
